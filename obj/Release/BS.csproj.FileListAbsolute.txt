@@ -1,0 +1,5 @@
+F:\HTMLonly Noble\BS\BS\bin\BS.dll
+F:\HTMLonly Noble\BS\BS\bin\BS.pdb
+F:\HTMLonly Noble\BS\BS\obj\Release\BS.csprojResolveAssemblyReference.cache
+F:\HTMLonly Noble\BS\BS\obj\Release\BS.dll
+F:\HTMLonly Noble\BS\BS\obj\Release\BS.pdb

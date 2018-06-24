@@ -1,0 +1,15 @@
+F:\Try\BS\BS\bin\BS.dll
+F:\Try\BS\BS\bin\BS.pdb
+F:\Try\BS\BS\obj\Debug\BS.csprojResolveAssemblyReference.cache
+F:\Try\BS\BS\obj\Debug\BS.dll
+F:\Try\BS\BS\obj\Debug\BS.pdb
+F:\HTMLonly Noble\BS\BS\bin\BS.dll
+F:\HTMLonly Noble\BS\BS\bin\BS.pdb
+F:\HTMLonly Noble\BS\BS\obj\Debug\BS.csprojResolveAssemblyReference.cache
+F:\HTMLonly Noble\BS\BS\obj\Debug\BS.dll
+F:\HTMLonly Noble\BS\BS\obj\Debug\BS.pdb
+F:\HTMLOnly TAMS\BS\BS\bin\BS.dll
+F:\HTMLOnly TAMS\BS\BS\bin\BS.pdb
+F:\HTMLOnly TAMS\BS\BS\obj\Debug\BS.csprojResolveAssemblyReference.cache
+F:\HTMLOnly TAMS\BS\BS\obj\Debug\BS.dll
+F:\HTMLOnly TAMS\BS\BS\obj\Debug\BS.pdb
